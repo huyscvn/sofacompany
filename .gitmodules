@@ -1,0 +1,4 @@
+[submodule "huyscvn/sofacompanyvn"]
+	path = huyscvn/sofacompanyvn
+	url = git@github.com:huyscvn/sofacompanyvn.git
+	branch = sofacompanyvn
